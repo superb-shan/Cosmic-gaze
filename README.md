@@ -6,10 +6,10 @@ Our python instructor Dr. Summia Parveen Asst. Prof/CSE @ Sri Eshwar College of 
 
 # We a team of 4:
 
-Shankar K
-Shahana S
-Saranya N
-Swetha Raylene J
+- Shankar K
+- Shahana S
+- Saranya N
+- Swetha Raylene J
 
 # Process
 
