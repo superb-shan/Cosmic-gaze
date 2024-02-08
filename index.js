@@ -2,7 +2,7 @@ let movies = [
   {
     name: "Cluster",
     des: "Stars Together Forms The GALAXY",
-    image: "images/Staff/gals.jpg"
+    image: "images/Staff/gals.jpg" 
   },
   {
     name: "Aliens",
